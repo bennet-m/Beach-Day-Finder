@@ -1,0 +1,31 @@
+body {
+  background: #157;
+  color: white;
+  padding: 25px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+table {
+  margin: auto;
+  height:1px
+}
+thead th {
+  background: rgb(76, 0, 153);
+  color: white;
+  font-size: 25px;
+  font-weight: 1000;
+  padding: 30px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 70
+}
+tr {
+  padding: 60px;
+  background: rgb(100,150,200);
+  font-size: 18px;
+  color: black
+}
+
+
