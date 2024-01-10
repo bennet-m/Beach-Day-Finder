@@ -1,4 +1,4 @@
-# Beach-Day-Finder
+# [Beach-Day-Finder](https://bennet-m.github.io/Beach-Day-Finder/)
 Website that displays data from [Weather API](weatherapi.com) in a user-friendly color-coded calendar format. Data is for Stinson Beach, California!
 
 Access at https://bennet-m.github.io/Beach-Day-Finder/
